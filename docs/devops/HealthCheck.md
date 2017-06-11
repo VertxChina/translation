@@ -1,1 +1,0 @@
-# Vert.x Health Check

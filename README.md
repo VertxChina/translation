@@ -55,7 +55,7 @@ sudo npm install gitbook-cli -g
 进入项目根目录，执行构建：
 
 ```bash
-rm -rf docs && gitbook build ./ docs
+rm -rf docs && gitbook install &&  gitbook build ./ docs
 ```
 
 构建之后将 `docs` 目录的所有更新提交。

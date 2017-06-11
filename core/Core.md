@@ -1,5 +1,7 @@
 # Vert.x Core 文档手册
 
+<!-- toc -->
+
 ## 中英对照表
 
 * Client：客户端

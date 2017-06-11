@@ -30,7 +30,14 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": [],
+    "plugins": ["etoc"],
+    "pluginsConfig": {
+      "etoc": {
+        "mindepth": 2,
+        "maxdepth": 4,
+        "notoc": false
+      }
+    },
     "title": "Vert.x 官方文档中文翻译",
     "variables": {}
 }
